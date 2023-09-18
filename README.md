@@ -1,4 +1,7 @@
-Live: https://frontend-task-2203.netlify.app/
+Live Link: https://frontend-task-2203.netlify.app/
+
+![Random Generate Images Using API](https://github.com/OptimusHima/FrontEnd-Task/assets/72163817/505b2490-aace-4b62-99bb-b332235901a5)
+
 
 # Getting Started with Create React App
 
